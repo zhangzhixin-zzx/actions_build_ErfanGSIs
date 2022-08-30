@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: https://3iob08u8v2tnnnsgfnps7lrl207u6l0u0detlbkctms8r45pqbovv578.qc.x.bsgslb.cn:10443/xdispatchaf052c7474cf8b3c/bigota.d.miui.com/V12.5.2.0.QEACNXM/miui_MI8_V12.5.2.0.QEACNXM_f5ec813d1c_10.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
